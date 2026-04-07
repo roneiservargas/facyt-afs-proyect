@@ -1,6 +1,9 @@
 title: Proyecto AFs
 description: Página de la plataforma AFs
 
+url: "https://facyt-afs-proyect.vercel.app"
+baseurl: ""
+
 exclude:
   - gemini.md
   
