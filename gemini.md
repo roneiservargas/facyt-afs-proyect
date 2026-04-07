@@ -1,4 +1,4 @@
-# contexto del proyecto: [página para el proyecto AFs]
+# contexto del proyecto: [esta es la página del proyecto AFs, donde se presentará esta iniciativa y se comunicará los aspectos y características de este]
 
 ## instrucciones operativas
 - utiliza este archivo como base de conocimiento para todas las respuestas.
