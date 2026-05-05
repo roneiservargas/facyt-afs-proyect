@@ -28,3 +28,4 @@ Para garantizar un flujo de trabajo eficiente, el proyecto se segmenta en tres �
 	- El apartado técnico 
 3. **Identidad**
 	- La filosofía y el diseño
+
